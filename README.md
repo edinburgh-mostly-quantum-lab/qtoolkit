@@ -47,13 +47,13 @@ py -m venv .venv
 
 You can install the latest version of qtoolkit directly from GitHub using pip:
 ```bash
-python -m pip install git+https://github.com/FarisRedza/qtoolkit.git
+python -m pip install git+https://github.com/edinburgh-mostly-quantum-lab/qtoolkit.git
 ```
 
 Alternatively, clone the repository and install the package locally:
 
 ```bash
-git clone https://github.com/FarisRedza/qtoolkit.git
+git clone https://github.com/edinburgh-mostly-quantum-lab/qtoolkit.git
 cd qtoolkit
 python -m pip install .
 ```
